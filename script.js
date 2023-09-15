@@ -7,3 +7,4 @@ allparagraphs[1].textContent="lastname"
 allparagraphs[2].textContent="Age"
 const element =document.querySelector("div")
 element.classList.add("style")
+console.error("Done")
